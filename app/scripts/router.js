@@ -1,3 +1,0 @@
-EjsghpTest.Router.map(function () {
-  
-});
