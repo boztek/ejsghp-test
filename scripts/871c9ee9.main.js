@@ -1,0 +1,1 @@
+!function(){window.EjsghpTest=Ember.Application.create()}(),function(){EjsghpTest.Store=DS.Store.extend(),EjsghpTest.ApplicationAdapter=DS.FixtureAdapter}(),function(){EjsghpTest.ApplicationRoute=Ember.Route.extend({model:function(){return["red","yellow","blue"]}})}(),function(){EjsghpTest.Router.map(function(){this.route("about"),this.route("test")})}();
